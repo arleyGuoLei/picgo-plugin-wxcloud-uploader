@@ -1,6 +1,6 @@
 {
   "name": "picgo-plugin-wxcloud-uploader",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "picGo微信小程序云开发云存储插件、Gui操作，白嫖云存储",
   "main": "dist/index.js",
   "publishConfig": {
