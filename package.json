@@ -1,12 +1,12 @@
 {
   "name": "picgo-plugin-wxcloud-uploader",
-  "version": "0.0.1",
-  "description": "picGo微信小程序云开发云存储插件、Gui操作，白嫖云存储",
+  "version": "0.0.3",
+  "description": "picGo微信小程序云开发云存储插件、Gui操作",
   "main": "dist/index.js",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "",
+  "homepage": "https://github.com/arleyGuoLei/picgo-plugin-wxcloud-uploader",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p .",

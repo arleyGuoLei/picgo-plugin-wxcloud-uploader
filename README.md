@@ -1,12 +1,22 @@
 # picgo-plugin-wxcloud-uploader
 
-picGo微信小程序云开发云存储插件、Gui操作，白嫖云存储
+为 [PicGo](https://github.com/Molunerfinn/PicGo) 开发的一款插件，新增了微信小程序云开发云存储
 
 ![截图](https://i.loli.net/2020/04/23/Lon8fIkSc9hz1GE.png)
 
 ## 安装
 
-在`picGo`插件中心搜索`wxcloud-uploader`，直接点击安装
+- 在线安装
+
+    打开 [PicGo](https://github.com/Molunerfinn/PicGo) 详细窗口，选择**插件设置**，搜索**wxcloud-uploader**安装，然后重启应用即可。
+
+- 离线安装
+  克隆该项目，复制项目到 以下目录：
+  - Windows: `%APPDATA%\picgo\`
+  - Linux: `$XDG_CONFIG_HOME/picgo/` or `~/.config/picgo/`
+  - macOS: `~/Library/Application\ Support/picgo/`
+
+  切换到新目录执行 `npm install ./picgo-plugin-wxcloud-uploader`，然后重启应用即可。
 
 ## 配置
 
